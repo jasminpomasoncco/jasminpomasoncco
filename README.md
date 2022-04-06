@@ -1,4 +1,4 @@
-![mapache](https://i.pinimg.com/originals/74/86/f9/7486f9f411683d78c0dd6df419ba0398.jpg)
+![mapache](https://i.pinimg.com/originals/eb/6a/d3/eb6ad31a3b5317b6e5892a059e5ef733.jpg)
 
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
 <h3 align="center">Estudiante de ingeniería de software.</h3>
