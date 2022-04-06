@@ -1,4 +1,4 @@
-![mapache](https://i.pinimg.com/originals/eb/6a/d3/eb6ad31a3b5317b6e5892a059e5ef733.jpg)
+![portada](https://i.pinimg.com/originals/eb/6a/d3/eb6ad31a3b5317b6e5892a059e5ef733.jpg)
 
 <h1 align="center">Hi 👋, I'm Jasmin <a href="https://emoji.gg/emoji/6842-orangebouncingcat"><img src="https://emoji.gg/assets/emoji/6842-orangebouncingcat.gif" width="64px" height="54px" alt="orangebouncingcat"></a> </h1> 
 <h3 align="center">Estudiante de ingeniería de software.</h3>
