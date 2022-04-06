@@ -1,3 +1,5 @@
+![mapache](https://cdn2.geckoandfly.com/wp-content/uploads/2013/07/107.bubble-eye-cat.jpg)
+
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
 <h3 align="center">Estudiante de ingeniería de software.</h3>
 
