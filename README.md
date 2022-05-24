@@ -1,6 +1,6 @@
 ![portada](https://i.pinimg.com/originals/eb/6a/d3/eb6ad31a3b5317b6e5892a059e5ef733.jpg)
 
-<h2 align="center">Hi 👋, I'm Jasmin <a href="https://emoji.gg/emoji/6842-orangebouncingcat"><img src="https://emoji.gg/assets/emoji/6842-orangebouncingcat.gif" width="54px" height="44px" alt="orangebouncingcat"></a> </h2> 
+<h2 align="center">Hi 👋, I'm Jasmin <a href="https://emoji.gg/emoji/6842-orangebouncingcat"><img src="https://emoji.gg/assets/emoji/6842-orangebouncingcat.gif" width="54px" height="44px"></a> </h2> 
 <h3 align="center">Software engineering student- UPC</h3>
 
 <h3 align="left">Languages and Tools:</h3>
