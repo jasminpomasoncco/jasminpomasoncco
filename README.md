@@ -10,4 +10,4 @@
 
 
   <a href="https://github.com/jasminpomasoncco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpomasoncco&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpomasoncco&layout=compact&langs_count=7&theme=radical"/>
