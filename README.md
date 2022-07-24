@@ -1,5 +1,3 @@
-![portada](https://i.pinimg.com/originals/eb/6a/d3/eb6ad31a3b5317b6e5892a059e5ef733.jpg)
-
 <h2 align="center">Hi 👋, I'm Jasmin </h2> 
 <h3 align="center">Software engineering student- UPC</h3>
 
