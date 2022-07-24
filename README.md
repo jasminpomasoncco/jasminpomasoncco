@@ -1,6 +1,27 @@
-<h2 align="center">Hi 👋, I'm Jasmin </h2> 
+<h1 align="center">Hi 👋, I'm Jasmin </h1> 
+
 <h3 align="center">Software engineering student- UPC</h3>
 
+- 🌱 I’m currently learning **Node.js MySQL**
+
+- 💬 Ask me about **Javascript**
+
+- ⚡ Fun fact **I'm addicted to coffee**
+
+<h3 align="left"> 🌸 Social networks:</h3>
+  <a href="https://instagram.com/jasmin_2020_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatojasminpomasoncco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jasmin-gianella-pomasoncco-oropeza-154102218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ 
+<h3 align="left"> 🌸 Top langs:</h3>
+<div align="center">
+  <a href="https://github.com/jasminpomasoncco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminpomasoncco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpomasoncco&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+  
 <h3 align="left"> 🌸 Languages and Tools:</h3>
 <br>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -22,15 +43,5 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-<br>
-<h3 align="left"> 🌸 Top langs:</h3>
-<div align="center">
-  <a href="https://github.com/jasminpomasoncco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminpomasoncco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpomasoncco&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 
-  <a href="https://instagram.com/jasmin_2020_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatojasminpomasoncco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jasmin-gianella-pomasoncco-oropeza-154102218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
