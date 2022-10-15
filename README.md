@@ -2,8 +2,8 @@
 
 <h3 align="center">Software engineering student- UPC</h3>
 
-- 🌱 I’m currently learning **Node.js MySQL**
-- 💬 Ask me about **Javascript**
+- 🌱 I’m currently learning **Typescript MySQL**
+- 💬 Ask me about **Back-end**
 - ⚡ Fun fact **I'm addicted to coffee**
 
  
