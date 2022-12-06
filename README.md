@@ -2,7 +2,7 @@
 
 <h3 align="center">Software engineering student- UPC</h3>
 
-- 🌱 I’m currently learning **Typescript MySQL**
+- 🌱 I’m currently learning **Vue and Flutter**
 - 💬 Ask me about **Back-end**
 - ⚡ Fun fact **I'm addicted to coffee**
 
