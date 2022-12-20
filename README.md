@@ -2,9 +2,9 @@
 
 <h3 align="center">Software engineering student- UPC</h3>
 
-- 🌱 I’m currently learning **Vue and Flutter**
-- 💬 Ask me about **Back-end**
-- ⚡ Fun fact **I'm addicted to coffee**
+- 🌱 ***I’m currently learning **Vue and Flutter** ***
+- 💬 ***Ask me about **Back-end** ***
+- ⚡ ***I like to play videogames and program with music***
 
  
 <h3 align="left"> 🌸 Top langs:</h3>
