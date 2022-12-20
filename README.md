@@ -2,8 +2,8 @@
 
 <h3 align="center">Software engineering student- UPC</h3>
 
-- 🌱 ***I’m currently learning **Vue and Flutter*****
-- 💬 ***Ask me about **Back-end*****
+- 🌱 ***I’m currently learning Vue and Flutter***
+- 💬 ***Ask me about Back-end***
 - ⚡ ***I like to play videogames and program with music***
 
  
