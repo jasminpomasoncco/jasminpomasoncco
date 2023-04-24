@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jasmin </h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E820A0&height=120&section=header"/>
 
-<h3 align="center">Software engineering student- UPC</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JASMIN+POMASONCCO;I'M+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
 
-- 🌱 ***I’m currently learning Vue and Flutter***
-- 💬 ***Ask me about Back-end***
+
+- 🌱 ***I’m currently learning Oracle and Flutter***
+- 💬 ***Ask me about Full-Stack***
 - ⚡ ***I like to play videogames and program with music***
 
  
@@ -36,4 +37,4 @@
   <a href="https://www.linkedin.com/in/jasmin-gianella-pomasoncco-oropeza-154102218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/Jasmingia22" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E820A0&height=120&section=footer"/>
