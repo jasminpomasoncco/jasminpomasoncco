@@ -20,5 +20,5 @@
 <h3 align="left"> 🌸 Social networks:</h3>
   <a href="https://instagram.com/jasmingianella_22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jasmin-gianella-pomasoncco-oropeza-154102218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/Jasmingia22" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/Jasmingia22" target="_blank"><img src="https://img.shields.io/badge/-X-%235444B7?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
   
