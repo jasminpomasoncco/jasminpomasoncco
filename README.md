@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JASMIN+POMASONCCO;I'M+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JASMIN+POMASONCCO;I'M+SOFTWARE+ENGINEERING)](https://git.io/typing-svg)
 
 - 🌱 ***Currently building Machine Learning projects and studying Artificial Intelligence to become an AI Engineer.***
 - 💬 ***Ask me about artificial intelligence.***
