@@ -36,6 +36,14 @@
 
 ---
 
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://github.com/jasminpomasoncco/jasminpomasoncco/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🌐 Find me
 
 <p>
