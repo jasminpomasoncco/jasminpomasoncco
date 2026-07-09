@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=32&center=true&vCenter=true&width=860&lines=Hey+there,+I'm+Jasmin+Pomasoncco;FullStack+%26+AI+Engineer+🤖;Building+real+things+with+generative+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=32&center=true&vCenter=true&width=860&lines=Hey+there,+I'm+Jasmin+Pomasoncco;AI+Engineer+🤖;Building+real+things+with+generative+AI)](https://git.io/typing-svg)
 
 - 🌱 **Currently working as a FullStack Developer at Visma**, shipping generative AI features into production with OpenAI, RAG pipelines, and MCP servers.
 - 🤖 **Passionate about AI Engineering** — from embeddings and vector search to multimodal pipelines.
