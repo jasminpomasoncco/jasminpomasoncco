@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=32&center=true&vCenter=true&width=860&lines=Hey+there,+I'm+Jasmin+Pomasoncco;AI+Engineer+🤖;Building+real+things+with+generative+AI)](https://git.io/typing-svg)
 
-- 🌱 **Currently working as a FullStack Developer at Visma**, shipping generative AI features into production with OpenAI, RAG pipelines, and MCP servers.
-- 🤖 **Passionate about AI Engineering** — from embeddings and vector search to multimodal pipelines.
-- 💬 **Ask me about** LLMs, prompt engineering, NestJS, or React.
+- 🌱 **Currently building personal AI projects** while studying and practicing AI Engineering.
+- 🤖 **Passionate about AI Engineering** — building solutions with LLMs, RAG, embeddings, and agentic workflows.
+- 💬 **Ask me about** Generative AI, LangGraph, LangChain, Python, or backend development.
 - 🍕 Fueled by movies, pizza, and coffee.
 
 ---
 
 ### 🔨 Currently building
 
-> FullStack Developer at **Visma – Mandü**, building and maintaining web applications with TypeScript, NestJS, React and Angular — also integrating generative AI features into production using the OpenAI API.
+> Currently working on **personal AI projects** while studying and practicing **AI Engineering**, with a focus on Generative AI, LLMs, RAG, embeddings, and agentic workflows using technologies such as LangGraph, LangChain, MCP, and AI-powered APIs.
 
 ---
 
