@@ -31,9 +31,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🎓 Commupics](https://github.com/SpectrumLinkSystems) | Mobile app to support communication for children with ASD. GPT-4 Vision maps real photos to ARASAAC pictograms (+11,500 symbols) with API fallback. Bachelor's thesis. 🎥 [Watch the presentation](https://youtu.be/PBAxSM6phGo?si=KtSORt20GbXZLnFV) | GPT-4 Vision · ARASAAC API · Multimodal |
-| [💬 Customer Feedback](https://github.com/jasminpomasoncco/recommendations-based-on-feedback) | Full RAG pipeline: Excel/CSV ingestion, semantic embeddings, FAISS vector search, and Claude-powered synthesis. Includes a custom MCP server with 6 tools for Claude Code CLI. | Python · FAISS · Claude API · MCP |
+| [📧 AI Email Support Agent](https://github.com/jasminpomasoncco/langgraph-email) | Automated customer support workflow built with LangGraph and Gmail. The system processes incoming emails from a fictional company, categorizes customer requests, generates responses, and manages the email workflow using an agentic architecture. | Python · LangGraph · Gmail API · LLMs |
 | [🛋️ Furniture Recommender](https://github.com/jasminpomasoncco/AI-Furniture-Recommender) | Semantic product recommender over a catalog of +500 furniture items. Embeddings + cosine similarity + OpenAI for commercial-style responses. | FastAPI · OpenAI · Embeddings |
-
 ---
 
 ### 🐍 Contribution snake
