@@ -31,7 +31,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🎓 Commupics](https://github.com/SpectrumLinkSystems) | Mobile app to support communication for children with ASD. GPT-4 Vision maps real photos to ARASAAC pictograms (+11,500 symbols) with API fallback. Bachelor's thesis. 🎥 [Watch the presentation](https://youtu.be/PBAxSM6phGo?si=KtSORt20GbXZLnFV) | GPT-4 Vision · ARASAAC API · Multimodal |
-| [📧 AI Email Support Agent](https://github.com/jasminpomasoncco/langgraph-email) | Automated customer support workflow built with LangGraph and Gmail. The system processes incoming emails from a fictional company, categorizes customer requests, generates responses, and manages the email workflow using an agentic architecture. | Python · LangGraph · Gmail API · LLMs |
+| [📧 AI Email Support Agent](https://github.com/jasminpomasoncco/langgraph-email) | End-to-end automated customer support agent that reads incoming Gmail messages, classifies requests, retrieves relevant knowledge using RAG, generates responses with an LLM, and replies within the original email thread. Containerized with Docker and deployed on GCP Cloud Run, with scheduled execution via Cloud Scheduler and secure credential management through Secret Manager. | Python · LangGraph · RAG · ChromaDB · OpenAI API · Gmail API · Docker · GCP Cloud Run · Cloud Scheduler · Secret Manager |
 | [🛋️ Furniture Recommender](https://github.com/jasminpomasoncco/AI-Furniture-Recommender) | Semantic product recommender over a catalog of +500 furniture items. Embeddings + cosine similarity + OpenAI for commercial-style responses. | FastAPI · OpenAI · Embeddings |
 ---
 
